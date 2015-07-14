@@ -1,0 +1,42 @@
+database name x
+table
+candidate
+  ~photo
+  ~name
+  ~nickname
+  ~year
+  ~Bio
+  ~manufesto
+  ~vnumber
+  ~email
+  ~mobile
+  ~password
+  ~admission
+
+ Voter
+ ~firstname
+ ~medianname
+ ~lastname
+ ~admission
+ ~idnumber
+ ~year
+ ~email
+ ~mobile
+ ~password
+ ~snifer
+ 
+
+ votes
+ // vnumber is feed to each ~ table
+ ~snifer
+ ~president
+ ~vicepresident
+ ~secretarygeneral
+ ~assistantsecretarygeneral
+ ~extenalaffairs
+ ~academics
+ ~sports
+ ~healthsecurityandaccomodation
+ ~finance
+ ~cateringandenvironment
+ ~entertainment
